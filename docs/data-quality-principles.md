@@ -14,6 +14,6 @@ Missing values must be identified, categorized, and resolved during the transfor
 Each transformation step must be reproducible and documented.
 
 5. Validation Rules (Upcoming)
-Column-level constraints
-Statistical sanity checks (Pandas & Numpy)
-Outlier detection heuristics
+ Column-level constraints
+ Statistical sanity checks (Pandas & Numpy)
+ Outlier detection heuristics
